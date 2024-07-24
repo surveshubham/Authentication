@@ -1,4 +1,4 @@
-////////////////////////////////
+
 Register api
 http://localhost:8000/auth/register
 {
@@ -7,7 +7,7 @@ http://localhost:8000/auth/register
   "role" : "user"
 }
 
-/////////////////////////////////////////////////
+
 Login Api
 http://localhost:8000/auth/login
 {
@@ -15,7 +15,7 @@ http://localhost:8000/auth/login
   "password" : "Shubham@123"
 }
 
-//////////////////////////////
+
 logOut Api
 http://localhost:8000/auth/logout
 
